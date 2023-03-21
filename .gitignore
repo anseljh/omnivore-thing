@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+####
+secrets.json
+content.json
+gql-*.json
+gql-*.txt
+headers.json
+ricktest.py
+schema.ts

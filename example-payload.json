@@ -1,0 +1,14 @@
+{
+    "action": "created",
+    "userId": "866d909a-a385-11ed-91b7-f373e87dc27d",
+    "label": {
+        "type": "label",
+        "userId": "866d909a-a385-11ed-91b7-f373e87dc27d",
+        "pageId": "08a9211f-e1eb-4d02-b78c-6622abdb04e5",
+        "id": "99a86d3c-bfdd-11ed-ae67-2310e9b92fb8",
+        "name": "Omnivore Webhook Test",
+        "color": "#CE88EF",
+        "description": "",
+        "createdAt": "2023-03-11T07:23:20.493Z"
+    }
+}
