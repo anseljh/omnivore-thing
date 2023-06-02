@@ -136,3 +136,9 @@ gql-*.txt
 headers.json
 ricktest.py
 schema.ts
+
+# Custom
+
+.DS_Store
+output/
+.vscode/settings.json

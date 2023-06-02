@@ -8,4 +8,4 @@ def load_secrets() -> str:
 
 def get_api_key() -> str:
     secrets = load_secrets()
-    return secrets.get("api_key")
+    return secrets["omnivore"]["api_key"]
